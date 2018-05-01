@@ -1,0 +1,7 @@
+[project]
+org-name = "Dushani"
+version = "0.3.0"
+authors = ["Dushani"]
+repository = "https://github.com/dushaniw/package-google-drive.git"
+keywords = ["google-drive"]
+license = "Apache-2.0"

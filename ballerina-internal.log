@@ -1,0 +1,44 @@
+[2018-05-01 15:25:47,209] ERROR {org.ballerinalang.launcher.Main} - [ERROR] Compilation failed. 
+org.ballerinalang.util.exceptions.BallerinaException: [ERROR] Compilation failed.
+	at org.ballerinalang.testerina.core.BTestRunner.lambda$compileAndBuildSuites$34(BTestRunner.java:155)
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)
+	at org.ballerinalang.testerina.core.BTestRunner.compileAndBuildSuites(BTestRunner.java:140)
+	at org.ballerinalang.testerina.core.BTestRunner.runTest(BTestRunner.java:86)
+	at org.ballerinalang.testerina.core.TestCmd.execute(TestCmd.java:158)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:66)
+ 
+[2018-05-01 15:26:38,887] ERROR {org.ballerinalang.launcher.Main} - [ERROR] Compilation failed. 
+org.ballerinalang.util.exceptions.BallerinaException: [ERROR] Compilation failed.
+	at org.ballerinalang.testerina.core.BTestRunner.lambda$compileAndBuildSuites$34(BTestRunner.java:155)
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)
+	at org.ballerinalang.testerina.core.BTestRunner.compileAndBuildSuites(BTestRunner.java:140)
+	at org.ballerinalang.testerina.core.BTestRunner.runTest(BTestRunner.java:86)
+	at org.ballerinalang.testerina.core.TestCmd.execute(TestCmd.java:158)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:66)
+ 
+[2018-05-01 15:40:48,721] ERROR {org.ballerinalang.launcher.Main} - [ERROR] Compilation failed. 
+org.ballerinalang.util.exceptions.BallerinaException: [ERROR] Compilation failed.
+	at org.ballerinalang.testerina.core.BTestRunner.lambda$compileAndBuildSuites$34(BTestRunner.java:155)
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)
+	at org.ballerinalang.testerina.core.BTestRunner.compileAndBuildSuites(BTestRunner.java:140)
+	at org.ballerinalang.testerina.core.BTestRunner.runTest(BTestRunner.java:86)
+	at org.ballerinalang.testerina.core.TestCmd.execute(TestCmd.java:158)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:66)
+ 
+[2018-05-01 16:50:40,099] ERROR {org.ballerinalang.launcher.Main} - [ERROR] Compilation failed. 
+org.ballerinalang.util.exceptions.BallerinaException: [ERROR] Compilation failed.
+	at org.ballerinalang.testerina.core.BTestRunner.lambda$compileAndBuildSuites$34(BTestRunner.java:155)
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)
+	at org.ballerinalang.testerina.core.BTestRunner.compileAndBuildSuites(BTestRunner.java:140)
+	at org.ballerinalang.testerina.core.BTestRunner.runTest(BTestRunner.java:86)
+	at org.ballerinalang.testerina.core.TestCmd.execute(TestCmd.java:158)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.ballerinalang.launcher.Main.main(Main.java:66)
+ 
